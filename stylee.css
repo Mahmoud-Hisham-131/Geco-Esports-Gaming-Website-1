@@ -2915,7 +2915,8 @@ nav .containerr .menu .list ul li .plus-1 i {
     .news .container .row-1 .content h2 {
         font-size: 34px;
     }
-
+}
+@media (max-width: 520px) {
     .news .container .row-1 .content h2::after {
         top: 85px;
     }
