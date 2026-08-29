@@ -2555,9 +2555,6 @@ nav .containerr .menu .list ul li .plus-1 i {
         display: none;
     }
 
-    .products .container .row-2 .content .cards .d-card:first-child {
-        width: 100%;
-    }
 
     .products .container .row-2 .icon {
         display: none;
@@ -2596,10 +2593,6 @@ nav .containerr .menu .list ul li .plus-1 i {
 
     .products .container .row-2 .content .cards .d-card:nth-child(n + 2) {
         display: none;
-    }
-
-    .products .container .row-2 .content .cards .d-card:first-child {
-        width: 100%;
     }
 
     .products .container .row-2 .content .cards .card {
